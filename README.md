@@ -17,3 +17,5 @@ Notably, there were discrepancies in feature importance between Linear Regressio
 Implications:
 
 The choice between models should be guided by the specific goals and requirements of the application. Consideration of trade-offs, such as interpretability versus complexity, plays a crucial role in the decision-making process. In conclusion, this analysis showcases the importance of a comprehensive evaluation that goes beyond quantitative metrics like RMSE. It underscores the need to balance simplicity and complexity, emphasizing the interpretability of results and the ability to capture intricate patterns for effective predictive modeling. The observed discrepancies in feature importance highlight the diverse insights offered by different models and the importance of selecting models that align with the specific objectives of the analysis.
+
+THIS PROJECT WAS CREATED BY HARITHA.S
